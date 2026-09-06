@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-um-opg-47343-tur-n-s-problem-for-hypergraphs-40ac8693`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1359110108`
+- Repository node ID: `R_kgDOUQJf3A`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
-- Problem lifecycle: `draft`
-- Problem admission: `preview_unadmitted`
+- Canonical Problem: `problem:um-opg-47343-tur-n-s-problem-for-hypergraphs-40ac8693`
+- ProblemContract SHA-256: `c122ccbdb1e084f9e93161ffcd23b5abd1d91364fc822219ced443e89d97967f`
+- Problem lifecycle: `active`
+- Problem admission: `canonical_admitted`
 - Harness suite: `harness-source:web-research-full` `1.1.3`
 - Suite manifest SHA-256: `873d54ccacba84d38d491a10fbf185495a7cfa53dc41e91a3ba680f726d54400`
-- Harness snapshot SHA-256: `480e6d737bf046c6eebfa084773e4e109f9b14c67f1dd20a1103ef1ca6f4ffbe`
+- Harness snapshot SHA-256: `c8e7462727fb7df8403c6244b6ac458f7c78e452da70cc750f3e3f0ed6b9e81e`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
